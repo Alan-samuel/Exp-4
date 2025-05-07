@@ -28,3 +28,4 @@ To create Hospital Management System software that will meet the needs of the ap
 
 
 # RESULT:
+Thus the Hospital management system project was executed and the output was verified.
